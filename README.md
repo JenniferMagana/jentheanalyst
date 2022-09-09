@@ -1,2 +1,0 @@
-# jentheanalyst
-Analytics Portfolio
